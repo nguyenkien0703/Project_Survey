@@ -2,8 +2,8 @@
     <header class="">
         <div class="row">
             <div class="col-sm-4">
-                <a href="https://trithucmoi.co/">
-                    <img src="https://trithucmoi.co/app_assets/images/ttm_logo.png" alt="">
+                <a href="https://github.com/nguyenkien0703">
+                   
                 </a>
             </div>
             <div class="col-sm-4 ">
